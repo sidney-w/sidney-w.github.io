@@ -1,2 +1,2 @@
 # sidney-w.github.io
-this is a test
+[dwm keybinds](dwm.html)
